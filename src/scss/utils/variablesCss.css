@@ -1,0 +1,8 @@
+:root {
+  --main-fontSize: 14px;
+  --button-fontSize: 14px;
+  --main-color: rgb(14, 35, 80);
+  --white-color: #fff;
+  --base-accentColor: rgba(32, 54, 114, 0.815);
+  --dangerColor: rgb(201, 68, 15);
+}
