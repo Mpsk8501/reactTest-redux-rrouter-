@@ -30,6 +30,9 @@ const Header = () => {
         <Menu.Item key="/albumsPage" icon={<AppstoreOutlined />}>
           <Link to={'/albumsPage'}>Albums</Link>
         </Menu.Item>
+        <Menu.Item key="/games" icon={<AppstoreOutlined />}>
+          <Link to={'/games'}>Games</Link>
+        </Menu.Item>
       </Menu>
     </header>
   )
